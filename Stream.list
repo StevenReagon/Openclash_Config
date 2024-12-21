@@ -1,3 +1,6 @@
 #Hulu
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaized.net
+
+#DisneyPlus
+DOMAIN-SUFFIX,dssedge.com
