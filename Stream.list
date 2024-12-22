@@ -6,4 +6,6 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,dssedge.com
 DOMAIN-SUFFIX,dss.map.fastly.net
+#ESPN
+DOMAIN-SUFFIX,uplynk.com
 
